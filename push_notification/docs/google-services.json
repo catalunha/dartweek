@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369107424798",
+    "project_id": "push-notification-a5696",
+    "storage_bucket": "push-notification-a5696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369107424798:android:c781c3133c30dc330e000f",
+        "android_client_info": {
+          "package_name": "br.com.innube.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369107424798-juosbg7dd74u8c8ora4ds9cu6202oknt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARSG6GJ-UmPKw-Wxj9Wsk81S-v1KhrOhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369107424798-juosbg7dd74u8c8ora4ds9cu6202oknt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
